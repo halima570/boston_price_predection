@@ -68,5 +68,7 @@ Ce projet utilise le dataset Boston Housing pour prédire les prix des logements
 - Lance le notebook pour exécuter les cellules étape par étape : chargement des données, exploration, prétraitement, entraînement du modèle, évaluation et visualisations.
 - Tu peux modifier les modèles utilisés ou tester d’autres algorithmes pour améliorer les prédictions.
 - Compare les performances de différents modèles via les métriques calculées.
+---
+## Contact
 
-
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
